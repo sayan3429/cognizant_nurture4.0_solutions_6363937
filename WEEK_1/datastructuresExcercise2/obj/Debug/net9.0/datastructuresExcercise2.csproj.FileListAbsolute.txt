@@ -1,0 +1,15 @@
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\bin\Debug\net9.0\datastructuresExcercise2.exe
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\bin\Debug\net9.0\datastructuresExcercise2.deps.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\bin\Debug\net9.0\datastructuresExcercise2.runtimeconfig.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\bin\Debug\net9.0\datastructuresExcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\bin\Debug\net9.0\datastructuresExcercise2.pdb
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.AssemblyInfoInputs.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.AssemblyInfo.cs
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.sourcelink.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\refint\datastructuresExcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.pdb
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\datastructuresExcercise2.genruntimeconfig.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\datastructuresExcercise2\obj\Debug\net9.0\ref\datastructuresExcercise2.dll

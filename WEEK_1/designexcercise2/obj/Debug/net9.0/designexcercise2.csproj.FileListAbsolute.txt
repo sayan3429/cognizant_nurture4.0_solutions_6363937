@@ -1,0 +1,15 @@
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\bin\Debug\net9.0\designexcercise2.exe
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\bin\Debug\net9.0\designexcercise2.deps.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\bin\Debug\net9.0\designexcercise2.runtimeconfig.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\bin\Debug\net9.0\designexcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\bin\Debug\net9.0\designexcercise2.pdb
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.AssemblyInfoInputs.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.AssemblyInfo.cs
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.sourcelink.json
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\refint\designexcercise2.dll
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.pdb
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\designexcercise2.genruntimeconfig.cache
+C:\Users\KIIT\cognizant_nurture4.0_solutions_6363937\designexcercise2\obj\Debug\net9.0\ref\designexcercise2.dll
